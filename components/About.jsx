@@ -42,6 +42,11 @@ const qualificationData = [
         title: 'experience',
         data: [
             {
+                company: 'I-Charge Solutions International LTD',
+                title: 'Senior Software Developer',
+                years: '2024/07-present',
+            },
+            {
                 company: 'Success Base Engineering LTD',
                 title: 'Software Developer',
                 years: '2020-2022',
@@ -61,7 +66,7 @@ const skillData = [
         data: [
             {
                 name: 'Front-end Development',
-                tech: 'HTML, CSS, JavaScript, React.js, Tailwind CSS'
+                tech: 'HTML, CSS, JavaScript, Vue, Vuetify, React.js, Tailwind CSS'
             },
             {
                 name: 'Back-end Development',
@@ -69,7 +74,7 @@ const skillData = [
             },
             {
                 name: 'Cross Platform Development',
-                tech: 'Unity, Kotlin, React Native, Android Studio, XML'
+                tech: 'Unity, Kotlin, React Native, Android, Linux'
             },
             {
                 name: 'Cloud',
